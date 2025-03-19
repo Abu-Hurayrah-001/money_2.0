@@ -1,0 +1,4 @@
+STEP: 1 - npm init
+STEP: 2 - Generate tsconfig.json (npx tsc --init) and adjust settings.
+STEP: 3 - Install nodemon and update "build, start and dev" in "package.json".
+STEP: 4 - Set up the server.
