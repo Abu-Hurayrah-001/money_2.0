@@ -1,0 +1,11 @@
+{
+  "name": "money_2.0",
+  "version": "1.0.0",
+  "description": "E-learning",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abu_Hurayrah",
+  "license": "ISC"
+}
